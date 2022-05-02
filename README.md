@@ -1,5 +1,5 @@
 # projeto-crud-nodejs
-### This project a huge architectural change, for a updated version, please refer to: https://github.com/Jrockbritto/projeto-crud-nodejs-padronizado
+### This project had huge architectural change, for a updated version, please refer to: https://github.com/Jrockbritto/projeto-crud-nodejs-padronizado
 A crud project developed in 4 days, see more in the README.
 
 
